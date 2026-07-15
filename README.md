@@ -188,11 +188,6 @@ Dashboard filters:
 - Category
 - Shipping Type
 - 
-## 📸 Dashboard Preview
-
-![Dashboard](<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/27ec10ad-5394-490e-8707-a32bbacef9db" />
-)
-
 ---
 
 # 💡 Business Recommendations
